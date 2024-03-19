@@ -1,7 +1,7 @@
 [
-    { "name" : "Chesse Burger" ,"uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/cheeseburger.jpg"},
-    { "name" : "Korean Fried Chicken" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Korean-Fried-Chicken.jpg"},
-    { "name" : "Fruits Bingsu", "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Bingsu.jpg"},
-    { "name" : "Boat Noodles", "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/noodle.jpg"}
+    { "name" : "Chesse Burger", "price" : "190 Bath" , "discount": "40% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/cheeseburger.jpg"},
+    { "name" : "Korean Fried Chicken", "price" : "250 Bath" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Korean-Fried-Chicken.jpg"},
+    { "name" : "Fruits Bingsu", "price" : "120 Bath" , "discount": "30% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Bingsu.jpg"},
+    { "name" : "Boat Noodles", "price" : "89 Bath" , "discount": "30% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/noodle.jpg"}
     
 ]
