@@ -3,8 +3,9 @@
 import React from "react";
 import { FontAwesome } from "@expo/vector-icons";
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
-import {  Image, Text, View , ScrollView } from "react-native";
+import {  Image, Text, View , ScrollView, TextInput } from "react-native";
 import MostPopular from "../components/MostPopular";
+import HomeIconMenu from "../components/HomeIconMenu";
 
 
 export default function Home() {
@@ -43,11 +44,13 @@ export default function Home() {
                     <View style = {{marginLeft: 10 , alignSelf: 'flex-start'}}>
                             <MaterialIcons name="search" size={30} color="grey" />
                     </View>
-                    <Text style={{ fontSize : 15  }}>Search product...</Text>
+                    <TextInput style={{ fontSize : 15 }} placeholder="Search Product... ?" />
 
                 </View>
+                
+            {/* <HomeIconMenu/> */}
 
-
+            <HomeIconMenu/>
             </View>
             <Text style={{ fontSize : 20 , padding: 20 , fontWeight: 'bold', marginTop: 10}}>Most Popular</Text>
             <MostPopular/>
