@@ -1,10 +1,10 @@
 [
 	{ "name" : "Boat Noodles", "price" : "89 Bath" , "discount": "30% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/noodle.jpg"},
-  { "name" : "Beef Udon", "price" : "180 Bath" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/BeefUdon.jpg"},
-  { "name" : "PadThai", "price" : "95 Bath" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/PadThai.jpg"},
-  { "name" : "Carbonara", "price" : "240 Bath" , "discount": "15% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/carbonara.jpg"},
-  { "name" : "Ramen", "price" : "160 Bath" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/ramen.jpg"},
-  { "name" : "Ramyun", "price" : "119 Bath" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Nooldes/ramyun.jpg"},
-  { "name" : "Hokkien", "price" : "129 Bath" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Nooldes/Hokkien.jpg"}
+  { "name" : "Beef Udon", "price" : "180 Baht" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/BeefUdon.jpg"},
+  { "name" : "PadThai", "price" : "95 Baht" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/PadThai.jpg"},
+  { "name" : "Carbonara", "price" : "240 Baht" , "discount": "15% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/carbonara.jpg"},
+  { "name" : "Ramen", "price" : "160 Baht" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Noodles/ramen.jpg"},
+  { "name" : "Ramyun", "price" : "119 Baht" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Nooldes/ramyun.jpg"},
+  { "name" : "Hokkien", "price" : "129 Baht" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Nooldes/Hokkien.jpg"}
     
 ]
