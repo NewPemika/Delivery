@@ -1,0 +1,7 @@
+[
+	{ "name" : "Creme Brulee", "price" : "169 Bath" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Dessert/CremeBrulee.jpg"},
+    { "name" : "Mango Sticky Rice", "price" : "129 Bath" , "discount": "15% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Dessert/MangoStickyRice.jpg"},
+    { "name" : "Strawberry Cheesecake", "price" : "195 Bath" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Dessert/StrawberryCheesecake.jpg"},
+    { "name" : "Tiramisu", "price" : "239 Bath" , "discount": "30% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Dessert/Tiramisu.jpg"},
+    { "name" : "Bingsu", "price" : "120 Bath" , "discount": "30% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Bingsu.jpg"}
+]
