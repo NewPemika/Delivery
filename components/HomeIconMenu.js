@@ -50,13 +50,7 @@ export default function HomeIconMenu() {
                             <Text style={{paddingTop: 5}}>Drinks</Text>
                         </View>
 
-                        <View style={{alignItems: 'center'}}>
-                            <MaterialCommunityIcons name="fruit-citrus" size={20} color="black" onPress={()=>{ navigation.navigate("Healthy"); }}/>
-                            <Text style={{paddingTop: 5}}>Healthy </Text>
-
                         
-
-                        </View>
                         
                     </View>
 

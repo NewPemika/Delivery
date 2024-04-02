@@ -6,7 +6,7 @@ import RiceBowls from "../screens/RiceBowls";
 import Fastfood from "../screens/FastFoods";
 import Desserts from "../screens/Desserts";
 import Drinks from "../screens/Drinks";
-import Healthy from "../screens/Healthy";
+
 import BottomTabs from "../navigations/BottomTabs";
 import FastFoods from "../screens/FastFoods";
 
@@ -22,7 +22,7 @@ export default function RootStack() {
       <Stack.Screen name="FastFoods" component={FastFoods} />
       <Stack.Screen name="Desserts" component={Desserts} />
       <Stack.Screen name="Drinks" component={Drinks} />
-      <Stack.Screen name="Healthy" component={Healthy} />
+      
       {/* <Stack.Screen name="Fastfood" component={Fastfood} /> */}
 
     </Stack.Navigator>
