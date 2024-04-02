@@ -31,7 +31,7 @@ export default function HomeIconMenu() {
                     
                         
                         <View style={{alignItems: 'center'}}>
-                            <Ionicons name="fast-food" size={20} color="black" onPress={()=>{ navigation.navigate("FastFood"); }}/>
+                            <Ionicons name="fast-food" size={20} color="black" onPress={()=>{ navigation.navigate("FastFoods"); }}/>
                             <Text style={{paddingTop: 5}}>Fast Food</Text>
                         </View>
                     </View>
