@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Teriyaki Chicken",
+        "price": "120 Baht",
+        "discount": "25% off",
+        "uri": "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/RiceBowls/TeriyakiChickenRiceBowl.jpg"
+    },
+    {
+        "name": "Bibimbap",
+        "price": "200 Baht",
+        "discount": "15% off",
+        "uri": "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/RiceBowls/Bibimbap.jpg"
+    },
+    {
+        "name": "Burrito Bowls",
+        "price": "110 Baht",
+        "discount": "20% off",
+        "uri": "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/RiceBowls/BurritoBowls.jpg"
+    },
+    {
+        "name": "Sashimi Bowl",
+        "price": "260 Baht",
+        "discount": "10% off",
+        "uri": "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/RiceBowls/SashimiBowl.jpg"
+    },
+    {
+        "name": "Thai Basil Beef",
+        "price": "150 Baht",
+        "discount": "30% off",
+        "uri": "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/RiceBowls/ThaiBasilBeef.jpg"
+    }
+]
