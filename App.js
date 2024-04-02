@@ -1,6 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import Home from './screens/Home';
+import { NavigationContainer } from '@react-navigation/native';
+import React from 'react';
+import RootStack from './navigations/RootStack';
+
 
 export default function App() {
   return (
@@ -9,7 +13,9 @@ export default function App() {
     //<PaperProvider>
       //<TestPaper/>
     //</PaperProvider>
-    <Home/>
+    <NavigationContainer>
+      <RootStack />
+    </NavigationContainer>
     
     
     

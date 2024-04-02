@@ -4,6 +4,8 @@ import React from "react";
 import { FontAwesome } from "@expo/vector-icons";
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import {  Image, Text, View , ScrollView } from "react-native";
+import HomeIconMenu from "../components/HomeIconMenu";
+import MostPopular from "../components/MostPopular";
 
 
 export default function Home() {
@@ -45,7 +47,12 @@ export default function Home() {
                     <Text style={{ fontSize : 15  }}>Search product...</Text>
 
                 </View>
-
+            <HomeIconMenu/>
+                <View>
+                    <Text style={{ fontSize : 20, fontWeight: 'bold', padding: 10, marginTop: 10 , marginLeft:10}}>Most Popular</Text>
+                </View>       
+            
+            <MostPopular/>
 
             </View>
         </ScrollView>
