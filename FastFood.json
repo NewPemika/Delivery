@@ -1,7 +1,0 @@
-[
-	{ "name" : "French Fries", "price" : "69 Bath" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/FastFood/FrenchFries.jpg"},
-    { "name" : "Hot Dog", "price" : "90 Bath" , "discount": "15% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/FastFood/HotDog.jpg"},
-    { "name" : "Pepperoni Pizza", "price" : "239 Bath" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/FastFood/PepperoniPizza.jpg"},
-    { "name" : "Korean Fried Chicken", "price" : "250 Bath" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Korean-Fried-Chicken.jpg"},
-    { "name" : "Cheese Burger", "price" : "190 Bath" , "discount": "40% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/cheeseburger.jpg"}
-]
