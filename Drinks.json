@@ -1,6 +1,6 @@
 [
 	{ "name" : "Thai Tea", "price" : "49 Baht" , "discount": "15% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Drinks/ThaiTea.jpg"},
-	{ "name" : "Boba Tea", "price" : "59 Baht" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Drinks/BobaTea.jpg",
+	{ "name" : "Boba Tea", "price" : "59 Baht" , "discount": "20% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Drinks/BobaTea.jpg"},
  	{ "name" : "Coconut Wa", "price" : "129 Baht" , "discount": "15% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Drinks/CoconutWater.jpg"},
   	{ "name" : "Strawberry Cheesecake", "price" : "195 Baht" , "discount": "10% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Drinks/IcedAmericano.jpg"},
   	{ "name" : "Tiramisu", "price" : "239 Baht" , "discount": "30% off" , "uri" : "https://raw.githubusercontent.com/NewPemika/Delivery/master/assets/Drinks/MatchaLatte.jpg"}
