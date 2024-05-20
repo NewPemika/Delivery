@@ -9,6 +9,7 @@ import Drinks from "../screens/Drinks";
 
 import BottomTabs from "../navigations/BottomTabs";
 import FastFoods from "../screens/FastFoods";
+import Delivery from "../screens/Location";
 
 
 const Stack = createStackNavigator();
@@ -22,6 +23,8 @@ export default function RootStack() {
       <Stack.Screen name="FastFoods" component={FastFoods} />
       <Stack.Screen name="Desserts" component={Desserts} />
       <Stack.Screen name="Drinks" component={Drinks} />
+      <Stack.Screen name="Delivery" component={Delivery} />
+
       
       {/* <Stack.Screen name="Fastfood" component={Fastfood} /> */}
 

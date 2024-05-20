@@ -3,9 +3,11 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome } from "@expo/vector-icons";
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import Search from '../screens/Search';
-import Payment from '../screens/Payment';
+import Payment from '../screens/Location';
 import Account from '../screens/Account';
 import Home from '../screens/Home';
+import Delivery from '../screens/Location';
+import Location from '../screens/Location';
 
 const Tab = createBottomTabNavigator();
 
@@ -31,10 +33,10 @@ export default function BottomTabs() {
             }}
           />
           <Tab.Screen
-            name="Payment"
-            component={Payment}
+            name="Location"
+            component={Location}
             options={{
-              tabBarLabel: "Payment",
+              tabBarLabel: "Delivery",
               tabBarIcon: ({ color, size }) => ( <MaterialIcons name="delivery-dining" color={color} size={size}/> ),
               headerShown : false
             }}
